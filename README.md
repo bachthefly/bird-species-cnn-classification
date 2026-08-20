@@ -63,7 +63,7 @@ Because the original dataset is too large for GitHub, the full dataset is not in
 ├── bird_images/              # Training/validation bird images
 ├── novel_species1_images/    # Images for the first novel species
 ├── novel_species2_images/    # Images for the second novel species
-├── *.ipynb                   # Model training and analysis notebooks
+├── novel_species_analysis.ipynb                   # Model training and analysis notebooks
 └── README.md
 
 ```
